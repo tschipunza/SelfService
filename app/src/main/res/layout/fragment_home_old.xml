@@ -32,7 +32,7 @@
                     android:visibility="invisible"
                     android:layout_margin="@dimen/margin_16dp" />
 
-                <org.mifos.mobilebanking.utils.CircularImageView
+                <org.impactfin.mobilebanking.utils.CircularImageView
                     android:layout_width="84dp"
                     android:layout_height="84dp"
                     android:id="@+id/iv_circular_user_image"

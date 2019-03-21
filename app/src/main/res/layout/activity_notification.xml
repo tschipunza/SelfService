@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="org.mifos.mobilebanking.ui.activities.NotificationActivity">
+    tools:context="org.impactfin.mobilebanking.ui.activities.NotificationActivity">
 
     <LinearLayout style="@style/LinearLayout.Base">
 

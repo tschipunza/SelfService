@@ -78,7 +78,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:337161660676:android:e4264440ced727da",
         "android_client_info": {
-          "package_name": "org.mifos.mobilebanking"
+          "package_name": "org.impactfin.mobilebanking"
         }
       },
       "oauth_client": [

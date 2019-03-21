@@ -1,4 +1,4 @@
-package org.mifos.mobilebanking.api;
+package org.impactfin.mobilebanking.api;
 
 /**
  * @author Vishwajeet

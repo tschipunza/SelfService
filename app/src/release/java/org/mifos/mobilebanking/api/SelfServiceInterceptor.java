@@ -3,7 +3,7 @@
  * See https://github.com/openMF/android-client/blob/master/LICENSE.md
  */
 
-package org.mifos.mobilebanking.api;
+package org.impactfin.mobilebanking.api;
 
 
 import android.text.TextUtils;
